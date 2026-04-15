@@ -1,0 +1,5 @@
+# Data Science Methodology
+
+In these modules, I gained a deeper understanding of the final stages of the data science lifecycle, particularly focusing on deployment, feedback, and communication. I learned that once a model has been built and evaluated, it must be deployed into a real-world environment where it can be used to solve actual problems. This involves integrating the model into systems, ensuring it performs efficiently, and making it accessible to users or stakeholders. 
+
+I also learned that deployment is not the end of the process—continuous feedback is essential. This includes monitoring model performance, identifying any decline in accuracy over time, and updating the model as new data becomes available. Additionally, I explored the importance of data storytelling, which involves presenting insights in a clear, compelling way using visuals and narratives so that non-technical stakeholders can understand and act on the results.
